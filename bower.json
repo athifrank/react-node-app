@@ -1,0 +1,22 @@
+{
+  "name": "react-express",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Your Name <{username}@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.6.1",
+    "skeleton": "^2.0.4"
+  }
+}

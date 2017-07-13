@@ -1,0 +1,28 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "browser-sync": "^2.18.12",
+    "browserify": "^14.4.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "guid": "0.0.12",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.30",
+    "jquery": "^3.2.1",
+    "mongoose": "^4.11.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "reactify": "^1.1.1",
+    "skeleton": "^0.1.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
